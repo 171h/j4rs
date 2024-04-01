@@ -8,3 +8,5 @@
 **/primer/
 **/.settings
 **/.classpath
+
+*.json
